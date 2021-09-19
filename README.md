@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crow2525-pp
 - 👀 I’m interested in Bikes/Sustainable Transport, Insurance and Data
-- 🌱 I’m currently learning Python and Datacamp
+- 🌱 I’m currently learning Python and Datacamp.  I have a background in insurance and I am a professional/financial lines underwriter.
 - 💞️ I’m looking to collaborate on nothing at the moment.  Am trying to be useful to someone
 - 📫 How to reach me philip.james.patterson@gmail.com 
 
